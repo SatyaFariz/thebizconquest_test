@@ -61,7 +61,7 @@ Watch the demo videos for a walkthrough of the application:
 
 22:45 - Added some components and got 80% of the main functionality done (without the update functionality) using mock data.
 
-23:20 - Set up the backend. I never used FastAPI before because I mainly use Nest.js in most of my projects. Fortunately I managed to the API working with only 2 Claude prompts. So I only needed to update a few lines of code and managed to get all the endpoints done in one fell swoop.
+23:20 - Set up the backend. I never used FastAPI before because I mainly use Nest.js in most of my projects. Fortunately I managed to get the API working with only 2 Claude prompts. So I only needed to update a few lines of code and managed to get all the endpoints done in one fell swoop.
 
 23:35 - Frontend and backend integration. Because the frontend is almost done using a mock data, I only need to write a few lines of code to connect it to the backend to make it fully functional.
 
