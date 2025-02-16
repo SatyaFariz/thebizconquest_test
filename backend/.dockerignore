@@ -1,0 +1,75 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment and configuration
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+.envrc
+.direnv/
+
+# Development and local files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+
+# Database files (these will be managed via volume)
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+eggs/
+.eggs/
+
+# Documentation
+docs/_build/
+site/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporary files
+temp/
+tmp/
+
+# Other
+.git
+.github
+.gitignore
+docker-compose*.yml
+docker-compose*.yaml
+Dockerfile*
+README.md
+LICENSE
+CONTRIBUTING.md
+CHANGELOG.md
