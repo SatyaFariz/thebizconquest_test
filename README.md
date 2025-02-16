@@ -6,6 +6,8 @@
 - [How to Run the App](#how-to-run-the-app)
 - [Screenshot](#screenshot)
 - [Demo Videos](#demo-videos)
+- [Technical Choices](#technical-choices)
+- [Time Log](#time-log)
 
 ## Project Overview
 
